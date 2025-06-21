@@ -1,0 +1,84 @@
+/* .main{
+    width: 92%;
+    /* height: 600px; */
+    /* border: 3px solid rgb(113, 55, 79); */
+} */
+.one{
+    width: 92%;
+    /* height: 300px; */
+    border:2px solid green;
+    margin-bottom: 8px;
+
+}
+.summer,.brick,.renovated,.barn{
+    width: 23%;
+    /* height: 300px;  */
+     /* border: 2px solid goldenrod;  */
+    display: inline-block;
+    position: relative;
+    margin-left: 20px;
+    margin-bottom: 15px;
+
+}
+h3{
+    
+    background-color: black;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 0px;
+    margin-top: 1px;
+    font-style: normal;
+     
+    
+}
+
+
+
+
+
+.two{
+    width: 92%;
+    /* height: 300px;
+    border: 2px solid brown;  */
+    margin-right: 30px;
+
+    
+}
+
+
+
+
+.s,.b,.r,.ba{
+    width: 23%;
+    /* height: 300px;
+    border: 2px solid greenyellow;  */
+    display: inline-block;
+    position: relative;
+    margin-left: 20px; 
+   
+}
+
+img{
+    width: 100%;
+}
+
+.imgs{
+   
+    padding-left: 20px;
+    position: relative;
+    padding: 20px;
+    padding-left: 3px;  
+}
+h2{
+    position: absolute;
+    top: 45%;
+    color: white;
+    left: 45%;
+
+}
+span{
+    background-color: black;
+    padding: 15px;
+    
+}
